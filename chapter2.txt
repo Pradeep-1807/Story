@@ -1,1 +1,2 @@
 chapter 2 text file 
+New changes made in chapter 2 to understang git branch
